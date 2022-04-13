@@ -1,2 +1,0 @@
-# banner-
-Banner 1
